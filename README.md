@@ -1,2 +1,2 @@
-# sql-online-retail-analytics
-SQL analysis of transactional retail data focusing on customer behavior, CLV, retention, and cohort analysis. Demonstrates joins, aggregations, views, and time-based analysis for answering business and research-oriented questions using relational databases.
+Online Retail (DATABASE).csv
+https://drive.google.com/file/d/1cqaCUBQC_D0NQkiagh2UUoyyS5CGDGyw/view
