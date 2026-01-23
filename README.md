@@ -4,13 +4,13 @@
 
 This project analyzes an online retail transaction dataset using **SQL (MySQL)** to understand customer behavior over time. The focus is on **data cleaning**, **cohort-based retention analysis**, and **customer lifetime value (CLV)** using SQL views and CTEs.
 
-### 🔹 Dataset
+★ Dataset
 
 * Large online retail transactional database (~521K+ records)
 * Contains invoice-level purchase data with customer IDs, quantities, prices, and timestamps
 * Due to GitHub file size limits, the full database is provided via **Google Drive (linked below)**
 
-### 🔹 Key Steps
+## Key Steps
 
 1. **Data Exploration**
 
@@ -33,7 +33,7 @@ This project analyzes an online retail transaction dataset using **SQL (MySQL)**
    * Aggregated sales by cohort and month offset
    * Measured revenue contribution over customer lifecycle
 
-### 🔹 SQL Concepts Used
+### SQL Concepts Used
 
 * CTEs (WITH clause)
 * Window functions
@@ -42,7 +42,7 @@ This project analyzes an online retail transaction dataset using **SQL (MySQL)**
 * Conditional aggregation
 * Cohort indexing logic
 
-### 🔹 Files
+### Files
 
 * `Online_Retail (Cohort Analysis, Customer Retention, Customer Lifetime Value).sql` – complete SQL analysis
 * Database download link provided below
